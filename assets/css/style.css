@@ -86,17 +86,15 @@ p {
     background-color: #2589bd;
 }
 
-.benefit {
+.plus {
     margin-bottom: 32px;
     color: #ffffff;
-}
-
-.benefit  {
-    margin-bottom: 10px;
     text-align: center;
 }
 
-.benefit img {
+
+
+.plus img {
     display: block;
     margin: 10px auto;
     max-width: 150px;
