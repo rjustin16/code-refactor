@@ -99,7 +99,7 @@ p {
     margin: 10px auto;
     max-width: 150px;
 }
-.search-engine-optimization {
+.format {
     margin-bottom: 20px;
     padding: 50px;
     height: 300px;
@@ -108,7 +108,7 @@ p {
     color: #ffffff;
 }
 
-#online-reputation-management {
+#fix {
     margin-bottom: 20px;
     padding: 50px;
     height: 300px;
@@ -118,27 +118,16 @@ p {
 }
 
 
-.search-engine-optimization img {
+.format img {
     max-height: 200px;
 }
 
-.online-reputation-management img {
-    max-height: 200px;
-}
-
-.social-media-marketing img {
-    max-height: 200px;
-}
-
-.search-engine-optimization h2 {
+.format h2 {
     margin-bottom: 20px;
     font-size: 36px;
 }
 
-.online-reputation-management h2 {
-    margin-bottom: 20px;
-    font-size: 36px;
-}
+
 
 
 

@@ -1,2 +1,2 @@
 # code-refactor
-In this Homework I had to try and keep functionality in a web page while also cleaning up code in the HTML and the CSS file. 
+In this Homework I had to try and keep functionality in a web page while also cleaning up code in the HTML and the CSS file. I renamed classes benefit, search engine optimizatiton, social media marketing, and online reputation managment to make the CSS and HTML more uniform. I also combined some defined classes that had duplicates of style properties in the CSS file. 
